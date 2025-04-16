@@ -1,5 +1,4 @@
-import Image from "next/image";
-import Link from 'next/link';
+
 import Header from '@/app/components/header'
 import Footer from '@/app/components/footer'
 import Banner from '@/app/components/banner'
@@ -7,7 +6,7 @@ import Lorem from '@/app/components/lorem'
 
 
 
-import bodyslideshow from '@/app/components/bodySlideshow'
+
 
 
 
