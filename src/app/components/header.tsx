@@ -15,12 +15,12 @@ export default function myheader(){
 
              <div className="container ">
 
-               
-                    <Link/></><img src="logo.png"
+               <Link href="/">
+                 <img src="logo.png"
                   width={200}
                    height={200}
                   alt="home"
-                 className="relative left-0.10 top-[-10]" />     
+                 className="relative left-0.10 top-[-10]" /><Link/>     
             
              </div>
 
